@@ -1,2 +1,2 @@
 for x in range(10):
-    print(x,end="/n")
+    print(x)
